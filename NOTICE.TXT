@@ -1,0 +1,24 @@
+MMS - Generatore di PDF in VB6/Java
+
+Copyright (C) 2025 [Engineering Ingegneria Informatica]
+
+
+This product includes software developed by third parties.
+
+---
+
+This application uses the following third-party components:
+
+1. **iText 5**
+   Copyright © 1999–2016 iText Group NV
+   Licensed under the GNU Affero General Public License (AGPL) v3.0
+   https://itextpdf.com/en/resources/licenses/agpl
+
+   You may obtain a copy of the AGPL license at:
+   https://www.gnu.org/licenses/agpl-3.0.txt
+
+---
+
+This software is distributed under the terms of the GNU Affero General Public License v3.
+See the LICENSE.txt file for more information.
+

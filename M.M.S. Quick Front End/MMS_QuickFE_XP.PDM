@@ -1,0 +1,1227 @@
+[Root]
+Most Recent Package=Pacchetto di installazione MMS_QuickFE (AMG)
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Shared\MMS_QuickFE SetUp
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Files Found]
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Files Released]
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Missing Dependency Information]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEBILLING.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEREMINDERS.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGEINDEXER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGERINDEXER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Out-of-Date Dependency Information]
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Files Added]
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\advancedprogressbar\apb.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\barcodes generator\barcodegen.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itext-pdfa-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itextpdf-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jcommon-1.0.23.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jfreechart-1.0.19.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\multivalent.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\ojdbc8.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreconfig.xml=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine32.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine64.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\csv_import.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_nwgebilling.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_nwgereminders.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\odp_nwgeindexer.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\odp_nwgerindexer.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\sql_import.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\txt_import.DLL=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\reports\posta massiva\etichetta.pdf=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms.cfg=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms_fe.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\certifications.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\engineering.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_logo.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_text.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\locales\español.lcl=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. wrapper\mms_wrapper.exe=
+C:\WINDOWS\system32\tabctl32.ocx=
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Files Removed]
+c:\program files (x86)\common files\system\ado\msado28.tlb=
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Files In Project]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\CMCT3IT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCMCIT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTIT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Windows\System32\VB6IT.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Windows\System32\msvbvm60.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEREMINDERS.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGEINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGERINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=Yes
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Install Locations]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\CMCT3IT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\VB6IT.DLL=$(WinSysPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msvbvm60.DLL=$(WinSysPathSysFile)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEBILLING.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEREMINDERS.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGEINDEXER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGERINDEXER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=$(AppPath)\Reports\Posta Massiva
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=$(AppPath)\Locales
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=$(AppPath)
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Configure Shared Files]
+Applicable=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_NWGEREMINDERS.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGEINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_NWGERINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Distribution]
+Type=single
+Size=
+Title=MMS_QuickFE
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|Package]
+PackageFolder=d:\Shared\MMS_QuickFE SetUp
+ProjectFolder=\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End
+ServerSideCab=
+File1=d:\Shared\MMS_QuickFE SetUp\setup.exe
+File2=d:\Shared\MMS_QuickFE SetUp\Setup.Lst
+File3=d:\Shared\MMS_QuickFE SetUp\MMS_QuickFE.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|IconGroups]
+Group0=MMS_QuickFE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione MMS_QuickFE (NWG)|MMS_QuickFE]
+Icon1=MMS_QuickFE.exe
+Title1=MMS_QuickFE
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Shared\MMS_QuickFE SetUp
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Files Found]
+TABCTL32.OCX=C:\WINDOWS\system32\TABCTL32.OCX
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Files Released]
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Missing Dependency Information]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEEBILLING.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEGBILLING.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_PESEINDEXER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Out-of-Date Dependency Information]
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Files Added]
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\advancedprogressbar\apb.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\barcodes generator\barcodegen.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itext-pdfa-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itextpdf-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jcommon-1.0.23.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jfreechart-1.0.19.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\multivalent.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\ojdbc8.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreconfig.xml=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine32.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine64.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\csv_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_peseebilling.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_pesegbilling.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\odp_peseindexer.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\sql_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\txt_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\reports\posta massiva\etichetta.pdf=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms.cfg=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms_fe.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\certifications.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\engineering.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_logo.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_text.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\locales\español.lcl=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. wrapper\mms_wrapper.exe=
+c:\windows\system32\tabctl32.ocx=
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Files Removed]
+c:\program files (x86)\common files\system\ado\msado28.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Files In Project]
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\CMCT3IT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCMCIT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTIT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Windows\System32\VB6IT.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Windows\System32\msvbvm60.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEEBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEGBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_PESEINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=Yes
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Install Locations]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\CMCT3IT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\VB6IT.DLL=$(WinSysPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msvbvm60.DLL=$(WinSysPathSysFile)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEEBILLING.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEGBILLING.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_PESEINDEXER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=$(AppPath)\Reports\Posta Massiva
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=$(AppPath)\Locales
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=$(AppPath)
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Configure Shared Files]
+Applicable=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEEBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_PESEGBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_PESEINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Distribution]
+Type=single
+Size=
+Title=MMS_QuickFE
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|Package]
+PackageFolder=d:\Shared\MMS_QuickFE SetUp
+ProjectFolder=\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End
+ServerSideCab=
+File1=d:\Shared\MMS_QuickFE SetUp\setup.exe
+File2=d:\Shared\MMS_QuickFE SetUp\Setup.Lst
+File3=d:\Shared\MMS_QuickFE SetUp\MMS_QuickFE.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|IconGroups]
+Group0=MMS_QuickFE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione MMS_QuickFE (CE/PE/SE)|MMS_QuickFE]
+Icon1=MMS_QuickFE.exe
+Title1=MMS_QuickFE
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Shared\MMS_QuickFE SetUp
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Files Found]
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Files Released]
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Missing Dependency Information]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHBILLING.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHREMINDER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_ABBANOAHINDEXER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Out-of-Date Dependency Information]
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Files Added]
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\advancedprogressbar\apb.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\barcodes generator\barcodegen.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itext-pdfa-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itextpdf-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jcommon-1.0.23.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jfreechart-1.0.19.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\multivalent.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\ojdbc8.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreconfig.xml=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine32.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine64.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\csv_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_abbanoahbilling.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_abbanoahreminder.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\odp_abbanoahindexer.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\sql_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\txt_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\reports\posta massiva\etichetta.pdf=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms.cfg=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms_fe.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\certifications.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\engineering.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_logo.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_text.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\locales\español.lcl=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. wrapper\mms_wrapper.exe=
+c:\windows\system32\tabctl32.ocx=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Files Removed]
+c:\program files (x86)\common files\system\ado\msado28.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Files In Project]
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\CMCT3IT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCMCIT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTIT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Windows\System32\VB6IT.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Windows\System32\msvbvm60.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHREMINDER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_ABBANOAHINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=Yes
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Install Locations]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\CMCT3IT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\VB6IT.DLL=$(WinSysPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msvbvm60.DLL=$(WinSysPathSysFile)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHBILLING.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHREMINDER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_ABBANOAHINDEXER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=$(AppPath)\Reports\Posta Massiva
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=$(AppPath)\Locales
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=$(AppPath)
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Configure Shared Files]
+Applicable=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ABBANOAHREMINDER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_ABBANOAHINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Distribution]
+Type=single
+Size=
+Title=MMS_QuickFE
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|Package]
+PackageFolder=d:\Shared\MMS_QuickFE SetUp
+ProjectFolder=\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End
+ServerSideCab=
+File1=d:\Shared\MMS_QuickFE SetUp\setup.exe
+File2=d:\Shared\MMS_QuickFE SetUp\Setup.Lst
+File3=d:\Shared\MMS_QuickFE SetUp\MMS_QuickFE.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|IconGroups]
+Group0=MMS_QuickFE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione MMS_QuickFE (ABBANOA)|MMS_QuickFE]
+Icon1=MMS_QuickFE.exe
+Title1=MMS_QuickFE
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Shared\MMS_QuickFE SetUp
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Files Found]
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Files Released]
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Missing Dependency Information]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHBILLING.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHCRDTOVERDUE.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Out-of-Date Dependency Information]
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Files Added]
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\advancedprogressbar\apb.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\barcodes generator\barcodegen.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itext-pdfa-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itextpdf-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jcommon-1.0.23.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jfreechart-1.0.19.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\multivalent.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\ojdbc8.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreconfig.xml=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine32.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine64.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\csv_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_aceahbilling.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_aceahcrdtoverdue.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\sql_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\txt_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\reports\posta massiva\etichetta.pdf=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms.cfg=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms_fe.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\certifications.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\engineering.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_logo.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_text.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\locales\español.lcl=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. wrapper\mms_wrapper.exe=
+c:\windows\system32\tabctl32.ocx=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Files Removed]
+c:\program files (x86)\common files\system\ado\msado28.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Files In Project]
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\CMCT3IT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCMCIT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTIT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Windows\System32\VB6IT.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Windows\System32\msvbvm60.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHCRDTOVERDUE.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=Yes
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Install Locations]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\CMCT3IT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\VB6IT.DLL=$(WinSysPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msvbvm60.DLL=$(WinSysPathSysFile)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHBILLING.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHCRDTOVERDUE.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=$(AppPath)\Reports\Posta Massiva
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=$(AppPath)\Locales
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=$(AppPath)
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Configure Shared Files]
+Applicable=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHBILLING.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_ACEAHCRDTOVERDUE.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Distribution]
+Type=single
+Size=
+Title=MMS_QuickFE
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|Package]
+PackageFolder=d:\Shared\MMS_QuickFE SetUp
+ProjectFolder=\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End
+ServerSideCab=
+File1=d:\Shared\MMS_QuickFE SetUp\setup.exe
+File2=d:\Shared\MMS_QuickFE SetUp\Setup.Lst
+File3=d:\Shared\MMS_QuickFE SetUp\MMS_QuickFE.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|IconGroups]
+Group0=MMS_QuickFE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione MMS_QuickFE (ACEA)|MMS_QuickFE]
+Icon1=MMS_QuickFE.exe
+Title1=MMS_QuickFE
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Shared\MMS_QuickFE SetUp
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Files Found]
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Files Released]
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Missing Dependency Information]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGEBILLINGV2.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV0.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV2.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGREMINDERS.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGBINDEXER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGRINDEXER.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Out-of-Date Dependency Information]
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Files Added]
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\advancedprogressbar\apb.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\barcodes generator\barcodegen.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itext-pdfa-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\itextpdf-5.3.4.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jcommon-1.0.23.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\jfreechart-1.0.19.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\multivalent.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\ojdbc8.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreconfig.xml=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine32.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\commands\mmscoreengine64.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\csv_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_amgebillingv2.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_amggbillingv0.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_amggbillingv2.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\idp_amgreminders.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\odp_amgbindexer.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\odp_amgrindexer.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\sql_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\plugins\txt_import.dll=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\!common projects\massivemailsystem\reports\posta massiva\etichetta.pdf=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms.cfg=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. front end\mms_fe.exe=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\certifications.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\engineering.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_logo.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\graphics\layout\setesi_text.gif=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. quick front end\locales\español.lcl=
+\\vboxsvr\storage\develope\vb works\se.te.si. projects\m.m.s. wrapper\mms_wrapper.exe=
+c:\windows\system32\tabctl32.ocx=
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Files Removed]
+c:\program files (x86)\common files\system\ado\msado28.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Files In Project]
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\CMCT3IT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCMCIT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTIT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Windows\System32\VB6IT.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Windows\System32\msvbvm60.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGEBILLINGV2.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV0.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV2.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGREMINDERS.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGBINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGRINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=Yes
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Install Locations]
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\CMCT3IT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\VB6IT.DLL=$(WinSysPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msvbvm60.DLL=$(WinSysPathSysFile)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=$(AppPath)\Commands\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=$(AppPath)\Commands
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGEBILLINGV2.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV0.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV2.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGREMINDERS.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGBINDEXER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGRINDEXER.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=$(AppPath)\PlugIns
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=$(AppPath)\Reports\Posta Massiva
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=$(AppPath)\Libs
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=$(AppPath)\Graphics\LayOut
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=$(AppPath)\Locales
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=$(AppPath)
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=$(AppPath)
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Configure Shared Files]
+Applicable=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\AdvancedProgressBar\APB.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\BarCodes Generator\BarCodeGen.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\Multivalent.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itext-pdfa-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\itextpdf-5.3.4.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jcommon-1.0.23.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\jfreechart-1.0.19.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\ojdbc8.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\Libs\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreConfig.XML=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine32.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Commands\MMSCoreEngine64.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\MassiveMailSystem.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\CSV_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGEBILLINGV2.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV0.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGGBILLINGV2.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\IDP_AMGREMINDERS.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGBINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\ODP_AMGRINDEXER.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\SQL_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\PlugIns\TXT_Import.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\MassiveMailSystem\Reports\Posta Massiva\Etichetta.PDF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\!Common Projects\SDF Parser\SDF.DLL=Yes
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS.CFG=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Front End\MMS_FE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Certifications.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\Engineering.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Logo.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Graphics\Layout\SETESI_Text.GIF=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\Locales\Español.LCL=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End\MMS_QuickFE.exe=No
+\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Wrapper\MMS_Wrapper.exe=No
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Distribution]
+Type=single
+Size=
+Title=MMS_QuickFE
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|Package]
+PackageFolder=d:\Shared\MMS_QuickFE SetUp
+ProjectFolder=\\VBOXSVR\Storage\Develope\VB Works\SE.TE.SI. Projects\M.M.S. Quick Front End
+ServerSideCab=
+File1=d:\Shared\MMS_QuickFE SetUp\setup.exe
+File2=d:\Shared\MMS_QuickFE SetUp\Setup.Lst
+File3=d:\Shared\MMS_QuickFE SetUp\MMS_QuickFE.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|IconGroups]
+Group0=MMS_QuickFE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione MMS_QuickFE (AMG)|MMS_QuickFE]
+Icon1=MMS_QuickFE.exe
+Title1=MMS_QuickFE
+StartIn1=$(AppPath)
+Key1=Icon1

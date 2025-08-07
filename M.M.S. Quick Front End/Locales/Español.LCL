@@ -1,0 +1,18 @@
+LBL_PROJECT;Proyecto
+LBL_MNUIDP;Set IDP Extra Parámetros
+LBL_MNUODP;Set ODP Extra Parámetros
+LBL_IBXPARAMSTITLE;Parámetros:
+LBL_FMEBOX1;1. Proyectos Disponibles:
+LBL_FMEBOX2;2. Importes Disponibles:
+LBL_FMEBOX3;3. Consola:
+LBL_CMBBOX1;Sel. Proyecto:
+LBL_CMBBOX2;Sel. Trabajo:
+LBL_BTNBOX2AI;Añade Importe
+LBL_BTNBOX2MS;Real. Suporte
+LBL_BTNBOX3MR;Real. Informes
+LBL_BTNBOX3GD;Genera Docs
+LBL_MSGBOX01;Operación ejecutada correctamente
+LBL_MSGBOX02;¿Seguros de que quiere seguir?
+LBL_MSGBOX03;Error al realizar la operación
+LBL_MSGTTL01;Importa Fecha:
+LBL_MSGTTL02;Ejecutando Orden:
